@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ciclo3.g9.ciclo3.Ciclo3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.682 s - in com.ciclo3.g9.ciclo3.Ciclo3ApplicationTests
